@@ -128,3 +128,5 @@ delete_product() - Remove a specific product from the store catalog entirely.
 Stellar Shop DApp - Securing Digital Commerce on the Blockchain
 
 ID SMART CONTRACT : CCDPE5RHFB2FHOB2T7RWBPOKH2LDICYB5FRKN24Y4Z3TLFFBUFG72R62
+
+LINK : https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CCDPE5RHFB2FHOB2T7RWBPOKH2LDICYB5FRKN24Y4Z3TLFFBUFG72R62;;
