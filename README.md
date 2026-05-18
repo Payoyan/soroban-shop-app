@@ -1,8 +1,8 @@
-Stellar Shop DApp
-Stellar Shop DApp - Blockchain-Based Decentralized E-Commerce System
+Payoyan Shop DApp
+Payoyan Shop DApp - Blockchain-Based Decentralized E-Commerce System
 
 Project Description
-Stellar Shop DApp is a decentralized smart contract solution built on the Stellar blockchain using the Soroban SDK. It provides a secure, immutable platform for managing a digital storefront directly on the blockchain. The contract ensures that your product catalog and inventory are stored transparently and are only manageable through predefined smart contract functions, eliminating reliance on centralized e-commerce databases.
+Payoyan Shop DApp is a decentralized smart contract solution built on the Stellar blockchain using the Soroban SDK. It provides a secure, immutable platform for managing a digital storefront directly on the blockchain. The contract ensures that your product catalog and inventory are stored transparently and are only manageable through predefined smart contract functions, eliminating reliance on centralized e-commerce databases.
 
 The system allows merchants to add products and manage inventory, while enabling users to view catalogs and seamlessly purchase items. Each product is uniquely identified, and its stock is dynamically and securely updated within the contract's instance storage, ensuring reliable, trustless commerce.
 
