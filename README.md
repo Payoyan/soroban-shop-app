@@ -8,7 +8,6 @@ The system allows merchants to add products and manage inventory, while enabling
 
 Project Vision
 Our vision is to revolutionize online commerce in the digital age by:
-ID SMART CONTRACT : CCDPE5RHFB2FHOB2T7RWBPOKH2LDICYB5FRKN24Y4Z3TLFFBUFG72R62
 
 Decentralizing Commerce: Moving digital storefronts from centralized servers to a global, distributed blockchain network.
 
@@ -128,3 +127,4 @@ delete_product() - Remove a specific product from the store catalog entirely.
 
 Stellar Shop DApp - Securing Digital Commerce on the Blockchain
 
+ID SMART CONTRACT : CCDPE5RHFB2FHOB2T7RWBPOKH2LDICYB5FRKN24Y4Z3TLFFBUFG72R62
